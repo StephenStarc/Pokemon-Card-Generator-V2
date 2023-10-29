@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    background-image: url(./background.jpg);
+    background-position: center;
+    background-size:cover ;
+
+}
+.card{
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    overflow: hidden;
+    display: grid;
+    place-content: center;
+    background-color: lightgray;
+}
+#randomCard{
+    width: 200px;
+}
+.search-bar{
+    margin-top: 20px;
+}
+#randombtn{
+    display: block;
+    margin: auto;
+    padding: 0.9em 0;
+    width: 200px;
+    border-style: none;
+    border-radius: 0.6em;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    background-color: rgb(206, 203, 26);
+}
+#randombtn:hover{
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.25);
+}
