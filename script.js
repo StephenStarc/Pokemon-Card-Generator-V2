@@ -30,12 +30,6 @@ randombtn.addEventListener('click', function(){
       setTimeout(() => {
         randombtn.innerText = `Random Card Generating 7`;
       }, 7000);
-      setTimeout(() => {
-        randombtn.innerText = `Random Card Generating 8`;
-      }, 8000);
-      setTimeout(() => {
-        randombtn.innerText = `Random Card Generating 9`;
-      }, 9000);
 })
 
 const getpokeid = () => {
