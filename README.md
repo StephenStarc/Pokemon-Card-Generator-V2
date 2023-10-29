@@ -2,6 +2,14 @@
 
 This is My second Project using API - This Project Generate new Pokemon Card With pokemon
 
+<div align='center'>
+<img src="Screenshot/Screenshot1.png">
+</div>
+<br>
+<div align='center'>
+<img src="Screenshot/Screenshot 2023-10-29 at 21-36-01 Document.png">
+</div>
+
 ## **Built With**
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
