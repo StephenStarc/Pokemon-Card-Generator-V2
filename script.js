@@ -1,26 +1,4 @@
 
-
-const typecolor = {
-    bug: "#26de81",
-     dragon:"#ffeaa7",
-      electric :"#fed330",
-     fairy:"#ff0869",
-      fighting:"#30336b",
-       fire:"#f8932b",
-        flying:"#81ecec",
-         grass:"#80b894",
-          ground:"#efb549",
-           ghost:"#a55eea",
-            ice:"#74b9ff",
-             normal:"#95afc8",
-              poison:"#6c5ce7",
-               psychic:"#a29bfe",
-                rock:"#2d3436",
-                 water:"#8190ff",
-                 dark:"#4b4b4b",
-
-}
-
 const url = 'https://api.pokemontcg.io/v2/cards/'
 const random = document.getElementById('randomcard')
 const randombtn = document.getElementById('randombtn')
